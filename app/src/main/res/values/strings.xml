@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="titleString">Select one of the buttons below</string>
+    <string name="htmlString">HTML</string>
+    <string name="xmlString">XML</string>
+    <string name="jsonString">JSON</string>
+    <string name="editTextString">Enter subject code to search for</string>
+    <string name="searchString">Search</string>
+</resources>
